@@ -8,3 +8,5 @@ my_name = input()
 print("あなたの名前は " + str(len(my_name)) +  "文字ですね")
 
 print("byebye")
+
+Print("ok")
